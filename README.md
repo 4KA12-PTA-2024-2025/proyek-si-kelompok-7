@@ -2,19 +2,19 @@
 
 **PEMBUATAN WEBSITE PEMESANAN CATERING WARUNG NASI MARSEL**
 
-**Team BERAPA Members and Roles**<br>
-Rolanda Evan M. - Project Manager  
-Fakih Syamaidzar - System Analyst  
-Rafif Atha Naufal - UI/UX Designer  
-Muhamad Arya P - Programmer (Front-End/Back-End)  
-Sindi Marselina - Tester (Quality Assurance)  
+**Kelompok 7**<br>
+- Rolanda Evan M. - Project Manager  
+- Fakih Syamaidzar - System Analyst  
+- Rafif Atha Naufal - UI/UX Designer  
+- Muhamad Arya P - Programmer (Front-End/Back-End)  
+- Sindi Marselina - Tester (Quality Assurance)  
 
 
 Proyek ini bertujuan untuk pemesanan Catering Warung Nasi Marsel agar bisa lebih dikenal dan diketahui secara luas. Serta, membangun platform digital inovatif yang memudahkan pelanggan dalam memesan makanan berkualitas, sehat, dan lezat dengan pelayanan cepat serta transparan, sehingga menjadi pilihan utama dalam memenuhi kebutuhan catering masyarakat modern.
 
 **Technologies Used**<br>
-Programming Language: PHP,JavaScript<br>
-Framework: Laravel & React<br>
-Database: SQL 
+- Programming Language: PHP,JavaScript<br>
+- Framework: Laravel & React<br>
+- Database: SQL 
 
 Start : 18 October 2024
