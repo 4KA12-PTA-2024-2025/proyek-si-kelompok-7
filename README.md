@@ -17,4 +17,6 @@ Proyek ini bertujuan untuk pemesanan Catering Warung Nasi Marsel agar bisa lebih
 - Framework: Laravel & React<br>
 - Database: SQL 
 
-Start : 18 October 2024
+Start : 18 October 2024<br>
+
+Video Presentasi dan Dokumen Project Charter: https://drive.google.com/drive/u/1/folders/1OIYXvVuTk3A_nvMzHH0C8_44XVV9tZNP
