@@ -19,4 +19,4 @@ Proyek ini bertujuan untuk pemesanan Catering Warung Nasi Marsel agar bisa lebih
 
 Start : 18 October 2024<br>
 
-Video Presentasi dan Dokumen Project Charter: https://drive.google.com/drive/u/1/folders/1OIYXvVuTk3A_nvMzHH0C8_44XVV9tZNP
+Video Presentasi Project Charter dan SRS: https://drive.google.com/drive/u/1/folders/1OIYXvVuTk3A_nvMzHH0C8_44XVV9tZNP
